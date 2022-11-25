@@ -1,0 +1,15 @@
+//Bank Account
+It is a abstract class.
+1.Account number
+2.Balance
+3.Name
+
+//checking account
+It is a child class (sub class) of Bank Account abstract class.
+1.fees
+
+//Saving account
+It is also a child class (sub class) of Bank Account abstract class.
+1.interest rate
+
+We access account number and name from parent class
